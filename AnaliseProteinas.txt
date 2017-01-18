@@ -1,0 +1,1841 @@
+Analise das Propriedades das Proteínas
+
+Nome do gene: lpg0925(ponA)
+Zona do genoma: 998716-1001101
+Status: Unreviewed
+UniProt ID: Q5ZX08
+Nome da proteina: penicillin binding protein 1A
+Funcao molecular: Cell envelope synthesis
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0926(-)
+Zona do genoma: 1001252-1002263
+Status: Unreviewed
+UniProt ID: Q5ZX07
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0927(pilM)
+Zona do genoma: 1002679-1003744
+Status: Unreviewed
+UniProt ID: Q5ZX06
+Nome da proteina: type IV pilus assembly protein PilM
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg0928(pilN)
+Zona do genoma: 1003747-1004296
+Status: Unreviewed
+UniProt ID: Q5ZX05
+Nome da proteina: type IV pilus biogenesis protein PilN
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0929(pilO)
+Zona do genoma: 1004273-1004909
+Status: Unreviewed
+UniProt ID: Q5ZX04
+Nome da proteina: type IV pilus biogenesis protein PilO
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0930(pilP)
+Zona do genoma: 1004905-1005493
+Status: Unreviewed
+UniProt ID: Q5ZX03
+Nome da proteina: type IV pilus biogenesis protein PilP
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg0931(pilQ)
+Zona do genoma: 1005496-1007593
+Status: Unreviewed
+UniProt ID: Q5ZX02
+Nome da proteina: type IV pilus biogenesis protein PilQ
+Funcao molecular: Transport and binding
+Localizacao celular: cell outer membrane
+
+Nome do gene: lpg0932(aroK)
+Zona do genoma: 1008038-1008566
+Status: Reviewed
+UniProt ID: AROK
+Nome da proteina: shikimate kinase I
+Funcao molecular: Amino Acid Metabolism
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg0933(aroB)
+Zona do genoma: 1008552-1009662
+Status: Reviewed
+UniProt ID: AROB
+Nome da proteina: 3-dehydroquinate synthase
+Funcao molecular: Amino Acid Metabolism
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg0934(-)
+Zona do genoma: 1009658-1011110
+Status: Unreviewed
+UniProt ID: Q5ZWZ9
+Nome da proteina: DamX-like protein
+Funcao molecular: Chemotaxis / motility / cell division
+Localizacao celular: -
+
+Nome do gene: lpg0935(-)
+Zona do genoma: 1011218-1011650
+Status: Unreviewed
+UniProt ID: Q5ZWZ8
+Nome da proteina: universal stress protein A (UspA)
+Funcao molecular: Detoxification / adaptation
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg0936(ribF)
+Zona do genoma: 1011773-1012760
+Status: Unreviewed
+UniProt ID: Q5ZWZ7
+Nome da proteina: riboflavin biosynthesis RibF
+Funcao molecular: Metabolism of Cofactors and Vitamins
+Localizacao celular: -
+
+Nome do gene: lpg0937(ileS)
+Zona do genoma: 1012872-1015668
+Status: Reviewed
+UniProt ID: SYI
+Nome da proteina: isoleucyl-tRNA synthetase
+Funcao molecular: Amino Acid Metabolism, Translation
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg0938(lspA)
+Zona do genoma: 1015763-1016129
+Status: Unreviewed
+UniProt ID: Q5ZWZ5
+Nome da proteina: lipoprotein signal peptidase
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg0939(eda)
+Zona do genoma: 1016427-1016991
+Status: Unreviewed
+UniProt ID: Q5ZWZ4
+Nome da proteina: 2-dehydro-3-deoxyphosphooctonate aldolase
+Funcao molecular: Carbohydrate Metabolism, Amino Acid Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg0940(-)
+Zona do genoma: 1017170-1019360
+Status: Unreviewed
+UniProt ID: Q5ZWZ3
+Nome da proteina: LidA
+Funcao molecular: Toxin production / other pathogen functions
+Localizacao celular: -
+
+Nome do gene: lpg0941(-)
+Zona do genoma: 1019601-1022727
+Status: Unreviewed
+UniProt ID: Q5ZWZ2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0942(era)
+Zona do genoma: 1022940-1023876
+Status: Unreviewed
+UniProt ID: Q5ZWZ1
+Nome da proteina: GTP-binding protein Era
+Funcao molecular: Signal transduction / other regulatory functions
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg0943(recO)
+Zona do genoma: 1023865-1024555
+Status: Reviewed
+UniProt ID: RECO
+Nome da proteina: DNA repair protein RecO
+Funcao molecular: Replication and Repair
+Localizacao celular: -
+
+Nome do gene: lpg0944(-)
+Zona do genoma: 1024610-1025786
+Status: Unreviewed
+UniProt ID: Q5ZWY9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0945(legL1)
+Zona do genoma: 1025948-1026839
+Status: Unreviewed
+UniProt ID: Q5ZWY8
+Nome da proteina: Gala protein type 1, 3 or 4
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0946(pdxJ)
+Zona do genoma: 1027067-1027874
+Status: Reviewed
+UniProt ID: PDXJ
+Nome da proteina: pyridoxine 5'-phosphate synthase
+Funcao molecular: Metabolism of Cofactors and Vitamins
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg0947(-)
+Zona do genoma: 1027860-1029678
+Status: Unreviewed
+UniProt ID: Q5ZWY7
+Nome da proteina: 2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+Funcao molecular: Carbohydrate Metabolism, Energy Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg0948(korB)
+Zona do genoma: 1029637-1030630
+Status: Unreviewed
+UniProt ID: Q5ZWY6
+Nome da proteina: 2-oxoglutarate ferredoxin oxidoreductase subunit beta
+Funcao molecular: Carbohydrate Metabolism, Energy Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg0949(-)
+Zona do genoma: 1030958-1031633
+Status: Unreviewed
+UniProt ID: Q5ZWY5
+Nome da proteina: carrier/transport protein
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0950(-)
+Zona do genoma: 1031851-1032658
+Status: Unreviewed
+UniProt ID: Q5ZWY4
+Nome da proteina: nitrilase
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: -
+
+Nome do gene: lpg0951(tldD)
+Zona do genoma: 1032669-1034112
+Status: Unreviewed
+UniProt ID: Q5ZWY3
+Nome da proteina: TldD protein
+Funcao molecular: Signal transduction / other regulatory functions, Replication and Repair
+Localizacao celular: -
+
+Nome do gene: lpg0952(ychK)
+Zona do genoma: 1034157-1035036
+Status: Unreviewed
+UniProt ID: Q5ZWY2
+Nome da proteina: phosphoesterase
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: -
+
+Nome do gene: lpg0953(-)
+Zona do genoma: 1035062-1036730
+Status: Unreviewed
+UniProt ID: Q5ZWY1
+Nome da proteina: AMP-binding protein
+Funcao molecular: Lipid Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg0954(mfd)
+Zona do genoma: 1036708-1040170
+Status: Unreviewed
+UniProt ID: Q5ZWY0
+Nome da proteina: transcription repair coupling factor
+Funcao molecular: Transcription, Replication and Repair
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg0955(-)
+Zona do genoma: 1040246-1041509
+Status: Unreviewed
+UniProt ID: Q5ZWX9
+Nome da proteina: hypothetical protein
+Funcao molecular: Replication and Repair
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0956(-)
+Zona do genoma: 1041512-1042691
+Status: Unreviewed
+UniProt ID: Q5ZWX8
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0957(-)
+Zona do genoma: 1042687-1043593
+Status: Unreviewed
+UniProt ID: Q5ZWX7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0958(lig)
+Zona do genoma: 1043779-1045831
+Status: Reviewed
+UniProt ID: DNLJ
+Nome da proteina: DNA ligase
+Funcao molecular: Replication and Repair
+Localizacao celular: -
+
+Nome do gene: lpg0959(hbpA)
+Zona do genoma: 1045932-1048116
+Status: Unreviewed
+UniProt ID: Q5ZWX5
+Nome da proteina: ABC transporter substrate-binding protein
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0960(-)
+Zona do genoma: 1048112-1049090
+Status: Unreviewed
+UniProt ID: Q5ZWX4
+Nome da proteina: peptide ABC transporter permease
+Funcao molecular: Transport and binding
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg0961(-)
+Zona do genoma: 1049086-1050460
+Status: Unreviewed
+UniProt ID: Q5ZWX3
+Nome da proteina: peptide ABC transporter permease
+Funcao molecular: Transport and binding
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg0962(dnaE)
+Zona do genoma: 1050534-1053981
+Status: Unreviewed
+UniProt ID: Q5ZWX2
+Nome da proteina: DNA polymerase III subunit alpha
+Funcao molecular: Replication and Repair
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg0963(-)
+Zona do genoma: 1054066-1055308
+Status: Unreviewed
+UniProt ID: Q5ZWX1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0964(-)
+Zona do genoma: 1055637-1056522
+Status: Unreviewed
+UniProt ID: Q5ZWX0
+Nome da proteina: phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+Funcao molecular: Metabolism of Cofactors and Vitamins
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0965(-)
+Zona do genoma: 1056482-1058030
+Status: Unreviewed
+UniProt ID: Q5ZWW9
+Nome da proteina: protein LphB
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0966(-)
+Zona do genoma: 1058084-1059962
+Status: Unreviewed
+UniProt ID: Q5ZWW8
+Nome da proteina: nucleoside-diphosphate sugar epimerases
+Funcao molecular: Nucleotide Metabolism
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0967(-)
+Zona do genoma: 1060107-1060701
+Status: Unreviewed
+UniProt ID: Q5ZWW7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0968(-)
+Zona do genoma: 1061065-1062787
+Status: Unreviewed
+UniProt ID: Q5ZWW6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0969(-)
+Zona do genoma: 1063227-1063968
+Status: Unreviewed
+UniProt ID: Q5ZWW5
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0970(-)
+Zona do genoma: 1064069-1065533
+Status: Unreviewed
+UniProt ID: Q5ZWW4
+Nome da proteina: amino acid permease
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0971(-)
+Zona do genoma: 1065913-1067059
+Status: Unreviewed
+UniProt ID: Q5ZWW3
+Nome da proteina: ecto-ATP diphosphohydrolase II
+Funcao molecular: Nucleotide Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg0973(-)
+Zona do genoma: 1067616-1068375
+Status: Unreviewed
+UniProt ID: Q5ZWW2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0974(-)
+Zona do genoma: 1068446-1069526
+Status: Unreviewed
+UniProt ID: Q5ZWW1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0975(-)
+Zona do genoma: 1069545-1070385
+Status: Unreviewed
+UniProt ID: Q5ZWW0
+Nome da proteina: transmembrane protein
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0976(-)
+Zona do genoma: 1070520-1071027
+Status: Unreviewed
+UniProt ID: Q5ZWV9
+Nome da proteina: antirestriction protein
+Funcao molecular: DNA/RNA degradation / restriction, Signal transduction / other regulatory functions
+Localizacao celular: -
+
+Nome do gene: lpg0977(-)
+Zona do genoma: 1071092-1071515
+Status: Unreviewed
+UniProt ID: Q5ZWV8
+Nome da proteina: ssDNA-binding protein
+Funcao molecular: Replication and Repair
+Localizacao celular: -
+
+Nome do gene: lpg0978(-)
+Zona do genoma: 1071615-1071864
+Status: Unreviewed
+UniProt ID: Q5ZWV7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0979(aacA4)
+Zona do genoma: 1072220-1072760
+Status: Unreviewed
+UniProt ID: Q5ZWV6
+Nome da proteina: aminoglycoside N(6')acetyltransferase
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0980(-)
+Zona do genoma: 1072751-1073675
+Status: Unreviewed
+UniProt ID: Q5ZWV5
+Nome da proteina: integrase
+Funcao molecular: Viral functions / Phage / Transposases
+Localizacao celular: -
+
+Nome do gene: lpg0981(-)
+Zona do genoma: 1073643-1074453
+Status: Unreviewed
+UniProt ID: Q5ZWV4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0982(-)
+Zona do genoma: 1075236-1076103
+Status: Unreviewed
+UniProt ID: Q5ZWV3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0983(-)
+Zona do genoma: 1076121-1078068
+Status: Unreviewed
+UniProt ID: Q5ZWV2
+Nome da proteina: conjugative coupling factor TraD
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0984(-)
+Zona do genoma: 1078064-1078394
+Status: Unreviewed
+UniProt ID: Q5ZWV1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0985(-)
+Zona do genoma: 1078408-1078582
+Status: Unreviewed
+UniProt ID: Q5ZWV0
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0986(-)
+Zona do genoma: 1078587-1080141
+Status: Unreviewed
+UniProt ID: Q5ZWU9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0987(-)
+Zona do genoma: 1080143-1081511
+Status: Unreviewed
+UniProt ID: Q5ZWU8
+Nome da proteina: Tfp pilus assembly, pilus retraction ATPase PilT
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0988(-)
+Zona do genoma: 1081520-1082495
+Status: Unreviewed
+UniProt ID: Q5ZWU7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0989(-)
+Zona do genoma: 1082487-1085241
+Status: Unreviewed
+UniProt ID: Q5ZWU6
+Nome da proteina: Type IV secretory protein VirB4 components
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg0990(-)
+Zona do genoma: 1085247-1085571
+Status: Unreviewed
+UniProt ID: Q5ZWU5
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0991(-)
+Zona do genoma: 1085551-1086811
+Status: Unreviewed
+UniProt ID: Q5ZWU4
+Nome da proteina: exported membrane protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0992(-)
+Zona do genoma: 1086807-1087644
+Status: Unreviewed
+UniProt ID: Q5ZWU3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0993(-)
+Zona do genoma: 1087570-1088227
+Status: Unreviewed
+UniProt ID: Q5ZWU2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0994(-)
+Zona do genoma: 1088219-1088582
+Status: Unreviewed
+UniProt ID: Q5ZWU1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0995(-)
+Zona do genoma: 1088593-1088959
+Status: Unreviewed
+UniProt ID: Q5ZWU0
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0996(-)
+Zona do genoma: 1088955-1089222
+Status: Unreviewed
+UniProt ID: Q5ZWT9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0997(-)
+Zona do genoma: 1089221-1089548
+Status: Unreviewed
+UniProt ID: Q5ZWT8
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg0998(-)
+Zona do genoma: 1089557-1090190
+Status: Unreviewed
+UniProt ID: Q5ZWT7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg0999(-)
+Zona do genoma: 1090180-1090612
+Status: Unreviewed
+UniProt ID: Q5ZWT6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1000(-)
+Zona do genoma: 1090611-1091433
+Status: Unreviewed
+UniProt ID: Q5ZWT5
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1001(-)
+Zona do genoma: 1091425-1092013
+Status: Unreviewed
+UniProt ID: Q5ZWT4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1002(-)
+Zona do genoma: 1092009-1092423
+Status: Unreviewed
+UniProt ID: Q5ZWT3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1003(csrA-2)
+Zona do genoma: 1092431-1092632
+Status: Unreviewed
+UniProt ID: Q5ZWT2
+Nome da proteina: carbon storage regulator
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1004(-)
+Zona do genoma: 1092625-1092979
+Status: Unreviewed
+UniProt ID: Q5ZWT1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1005(lvrA)
+Zona do genoma: 1092995-1093907
+Status: Unreviewed
+UniProt ID: Q5ZWT0
+Nome da proteina: protein LvrA
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg1006(-)
+Zona do genoma: 1094785-1096030
+Status: Unreviewed
+UniProt ID: Q5ZWS9
+Nome da proteina: cobalt/zinc/cadmium efflux RND transporter outer membrane protein
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg1007(-)
+Zona do genoma: 1096026-1097283
+Status: Unreviewed
+UniProt ID: Q5ZWS8
+Nome da proteina: cation efflux system HelB
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg1008(-)
+Zona do genoma: 1097289-1100442
+Status: Unreviewed
+UniProt ID: Q5ZWS7
+Nome da proteina: cobalt/zinc/cadmium efflux RND transporter permease HelA
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1009(cadA-1)
+Zona do genoma: 1100463-1102653
+Status: Unreviewed
+UniProt ID: Q5ZWS6
+Nome da proteina: cadmium translocating P-type ATPase CadA
+Funcao molecular: Metabolism of Complex Carbohydrates, Metabolism of Cofactors and Vitamins
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg1010(-)
+Zona do genoma: 1103657-1105565
+Status: Unreviewed
+UniProt ID: Q5ZWS5
+Nome da proteina: cadmium efflux ATPase
+Funcao molecular: Transport and binding
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg1011(-)
+Zona do genoma: 1105579-1105975
+Status: Unreviewed
+UniProt ID: Q5ZWS4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1012(-)
+Zona do genoma: 1106003-1106201
+Status: Unreviewed
+UniProt ID: Q5ZWS3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1013(-)
+Zona do genoma: 1106388-1106640
+Status: Unreviewed
+UniProt ID: Q5ZWS2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1014(-)
+Zona do genoma: 1106700-1106874
+Status: Unreviewed
+UniProt ID: Q5ZWS1
+Nome da proteina: dehydrogenase
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1015(yueD)
+Zona do genoma: 1106967-1107498
+Status: Unreviewed
+UniProt ID: Q5ZWS0
+Nome da proteina: hypothetical protein
+Funcao molecular: Metabolism of Cofactors and Vitamins
+Localizacao celular: -
+
+Nome do gene: lpg1016(-)
+Zona do genoma: 1107779-1108664
+Status: Unreviewed
+UniProt ID: Q5ZWR9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1017(mgtA)
+Zona do genoma: 1109618-1112147
+Status: Unreviewed
+UniProt ID: Q5ZWR8
+Nome da proteina: cation efflux transporter
+Funcao molecular: Metabolism of Complex Carbohydrates, Metabolism of Cofactors and Vitamins
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1018(-)
+Zona do genoma: 1112133-1113393
+Status: Unreviewed
+UniProt ID: Q5ZWR7
+Nome da proteina: chemiosmotic efflux system B protein C
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg1019(-)
+Zona do genoma: 1113389-1114523
+Status: Unreviewed
+UniProt ID: Q5ZWR6
+Nome da proteina: chemiosmotic efflux system B protein B
+Funcao molecular: Transport and binding
+Localizacao celular: membrane
+
+Nome do gene: lpg1020(-)
+Zona do genoma: 1114601-1117745
+Status: Unreviewed
+UniProt ID: Q5ZWR5
+Nome da proteina: chemiosmotic efflux system B protein A
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1021(-)
+Zona do genoma: 1117741-1119103
+Status: Unreviewed
+UniProt ID: Q5ZWR4
+Nome da proteina: metallo-beta lactamase
+Funcao molecular: Detoxification / adaptation, Transcription
+Localizacao celular: -
+
+Nome do gene: lpg1022(deoA)
+Zona do genoma: 1119060-1120614
+Status: Reviewed
+UniProt ID: TYPH
+Nome da proteina: thymidine phosphorylase
+Funcao molecular: Nucleotide Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1023(-)
+Zona do genoma: 1120610-1121522
+Status: Unreviewed
+UniProt ID: Q5ZWR2
+Nome da proteina: phosphoribosylpyrophosphate synthetase
+Funcao molecular: Carbohydrate Metabolism, Nucleotide Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1024(-)
+Zona do genoma: 1121779-1123990
+Status: Unreviewed
+UniProt ID: Q5ZWR1
+Nome da proteina: copper efflux ATPase
+Funcao molecular: Transport and binding
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg1025(yegE)
+Zona do genoma: 1124129-1125011
+Status: Unreviewed
+UniProt ID: Q5ZWR0
+Nome da proteina: sensory box/GGDEF family protein
+Funcao molecular: Signal transduction / other regulatory functions
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1026(-)
+Zona do genoma: 1125147-1125522
+Status: Unreviewed
+UniProt ID: Q5ZWQ9
+Nome da proteina: outer membrane lipoprotein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1027(-)
+Zona do genoma: 1125522-1126860
+Status: Unreviewed
+UniProt ID: Q5ZWQ8
+Nome da proteina: chemiosmotic efflux system C protein C
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg1028(-)
+Zona do genoma: 1126856-1127825
+Status: Unreviewed
+UniProt ID: Q5ZWQ7
+Nome da proteina: chemiosmotic efflux system C protein B
+Funcao molecular: Transport and binding
+Localizacao celular: membrane
+
+Nome do gene: lpg1029(-)
+Zona do genoma: 1127825-1131041
+Status: Unreviewed
+UniProt ID: Q5ZWQ6
+Nome da proteina: chemiosmotic efflux system protein A-like protein
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1030(-)
+Zona do genoma: 1131037-1131490
+Status: Unreviewed
+UniProt ID: Q5ZWQ5
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1031(-)
+Zona do genoma: 1131628-1131973
+Status: Unreviewed
+UniProt ID: Q5ZWQ4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1032(-)
+Zona do genoma: 1132175-1133855
+Status: Unreviewed
+UniProt ID: Q5ZWQ3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1033(-)
+Zona do genoma: 1133866-1134073
+Status: Unreviewed
+UniProt ID: Q5ZWQ2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1034(-)
+Zona do genoma: 1134218-1134746
+Status: Unreviewed
+UniProt ID: Q5ZWQ1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1035(pcoA)
+Zona do genoma: 1134772-1137847
+Status: Unreviewed
+UniProt ID: Q5ZWQ0
+Nome da proteina: copper efflux ATPase
+Funcao molecular: Transport and binding
+Localizacao celular: cell outer membrane
+
+Nome do gene: lpg1036(-)
+Zona do genoma: 1138084-1138552
+Status: Unreviewed
+UniProt ID: Q5ZWP9
+Nome da proteina: outer membrane lipoprotein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1037(-)
+Zona do genoma: 1138657-1138825
+Status: Unreviewed
+UniProt ID: Q5ZWP8
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1038(-)
+Zona do genoma: 1139067-1139385
+Status: Unreviewed
+UniProt ID: Q5ZWP7
+Nome da proteina: VrrB
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1039(-)
+Zona do genoma: 1139570-1139867
+Status: Unreviewed
+UniProt ID: Q5ZWP6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1040(-)
+Zona do genoma: 1139872-1140538
+Status: Unreviewed
+UniProt ID: Q5ZWP5
+Nome da proteina: S-isoprenylcysteine methyltransferase
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1041(-)
+Zona do genoma: 1140537-1141035
+Status: Unreviewed
+UniProt ID: Q5ZWP4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1042(-)
+Zona do genoma: 1141102-1142020
+Status: Unreviewed
+UniProt ID: Q5ZWP3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1043(-)
+Zona do genoma: 1141920-1142682
+Status: Unreviewed
+UniProt ID: Q5ZWP2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1044(-)
+Zona do genoma: 1142681-1144655
+Status: Unreviewed
+UniProt ID: Q5ZWP1
+Nome da proteina: oxidoreductase, FAD-binding
+Funcao molecular: Energy Metabolism
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1045(-)
+Zona do genoma: 1144669-1144864
+Status: Unreviewed
+UniProt ID: Q5ZWP0
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1046(-)
+Zona do genoma: 1144897-1145287
+Status: Unreviewed
+UniProt ID: Q5ZWN9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1047(atpG)
+Zona do genoma: 1145318-1146188
+Status: Unreviewed
+UniProt ID: Q5ZWN8
+Nome da proteina: ATP synthase subunit gamma C-terminus
+Funcao molecular: Energy Metabolism
+Localizacao celular: proton-transporting ATP synthase complex, catalytic core F(1)
+
+Nome do gene: lpg1048(-)
+Zona do genoma: 1146245-1147718
+Status: Reviewed
+UniProt ID: ATPA1
+Nome da proteina: ATP synthase F0F1 subunit alpha
+Funcao molecular: Energy Metabolism
+Localizacao celular: proton-transporting ATP synthase complex, catalytic core F(1)
+
+Nome do gene: lpg1049(-)
+Zona do genoma: 1147704-1148448
+Status: Unreviewed
+UniProt ID: Q5ZWN6
+Nome da proteina: H(+) transporting ATP synthase subunit B
+Funcao molecular: Energy Metabolism
+Localizacao celular: proton-transporting ATP synthase complex, coupling factor F(o)
+
+Nome do gene: lpg1050(-)
+Zona do genoma: 1148453-1148642
+Status: Unreviewed
+UniProt ID: Q5ZWN5
+Nome da proteina: ATP synthase subunit C
+Funcao molecular: Energy Metabolism
+Localizacao celular: proton-transporting ATP synthase complex, coupling factor F(o)
+
+Nome do gene: lpg1051(atpA)
+Zona do genoma: 1148725-1149418
+Status: Reviewed
+UniProt ID: ATP6
+Nome da proteina: ATP synthase F0F1 subunit A
+Funcao molecular: Energy Metabolism
+Localizacao celular: proton-transporting ATP synthase complex, coupling factor F(o)
+
+Nome do gene: lpg1052(-)
+Zona do genoma: 1149420-1149699
+Status: Unreviewed
+UniProt ID: Q5ZWN3
+Nome da proteina: ATP synthase
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1053(-)
+Zona do genoma: 1149688-1150099
+Status: Unreviewed
+UniProt ID: Q5ZWN2
+Nome da proteina: ATP synthase F0F1 subunit epsilon
+Funcao molecular: Energy Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1054(atpD)
+Zona do genoma: 1150107-1151532
+Status: Unreviewed
+UniProt ID: Q5ZWN1
+Nome da proteina: ATP synthase F0F1 subunit beta
+Funcao molecular: Energy Metabolism
+Localizacao celular: proton-transporting ATP synthase complex, catalytic core F(1)
+
+Nome do gene: lpg1055(-)
+Zona do genoma: 1151869-1152310
+Status: Unreviewed
+UniProt ID: Q5ZWN0
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1056(-)
+Zona do genoma: 1154000-1154543
+Status: Unreviewed
+UniProt ID: Q5ZWM9
+Nome da proteina: guanylate cyclase
+Funcao molecular: Signal transduction / other regulatory functions, Nucleotide Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1057(-)
+Zona do genoma: 1154508-1156029
+Status: Unreviewed
+UniProt ID: Q5ZWM8
+Nome da proteina: sensory box/GGDEF family protein
+Funcao molecular: Signal transduction / other regulatory functions
+Localizacao celular: -
+
+Nome do gene: lpg1058(phbC)
+Zona do genoma: 1156198-1158001
+Status: Unreviewed
+UniProt ID: Q5ZWM7
+Nome da proteina: polyhydroxyalkanoic synthase
+Funcao molecular: Amino Acid Metabolism, Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates, Metabolism of Complex Lipids, Biodegradation of Xenobiotics, Carbohydrate Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1059(phaB)
+Zona do genoma: 1158151-1158949
+Status: Unreviewed
+UniProt ID: Q5ZWM6
+Nome da proteina: acetoacetyl CoA reductase
+Funcao molecular: Carbohydrate Metabolism
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg1060(-)
+Zona do genoma: 1158966-1159230
+Status: Unreviewed
+UniProt ID: Q5ZWM5
+Nome da proteina: cold shock domain-contain protein
+Funcao molecular: Detoxification / adaptation
+Localizacao celular: cytoplasm
+
+Nome do gene: lpg1061(-)
+Zona do genoma: 1159281-1159740
+Status: Unreviewed
+UniProt ID: Q5ZWM4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1062(-)
+Zona do genoma: 1159897-1160926
+Status: Unreviewed
+UniProt ID: Q5ZWM3
+Nome da proteina: hypothetical protein
+Funcao molecular: Toxin production / other pathogen functions
+Localizacao celular: -
+
+Nome do gene: lpg1063(proP6)
+Zona do genoma: 1161307-1162600
+Status: Unreviewed
+UniProt ID: Q5ZWM2
+Nome da proteina: proline/betaine transporter ProP6
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1064(-)
+Zona do genoma: 1162604-1163123
+Status: Unreviewed
+UniProt ID: Q5ZWM1
+Nome da proteina: polypeptide deformylase
+Funcao molecular: Translation
+Localizacao celular: -
+
+Nome do gene: lpg1065(-)
+Zona do genoma: 1163106-1163745
+Status: Unreviewed
+UniProt ID: Q5ZWM0
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1066(-)
+Zona do genoma: 1163707-1164265
+Status: Unreviewed
+UniProt ID: Q5ZWL9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1067(-)
+Zona do genoma: 1164408-1164666
+Status: Unreviewed
+UniProt ID: Q5ZWL8
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1068(-)
+Zona do genoma: 1164677-1164881
+Status: Unreviewed
+UniProt ID: Q5ZWL7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1069(-)
+Zona do genoma: 1164904-1165927
+Status: Unreviewed
+UniProt ID: Q5ZWL6
+Nome da proteina: AbiD phage protein-like
+Funcao molecular: Viral functions / Phage / Transposases
+Localizacao celular: -
+
+Nome do gene: lpg1070(int)
+Zona do genoma: 1165936-1167118
+Status: Unreviewed
+UniProt ID: Q5ZWL5
+Nome da proteina: integrase, phage related
+Funcao molecular: Viral functions / Phage / Transposases
+Localizacao celular: -
+
+Nome do gene: lpg1071(-)
+Zona do genoma: 1167447-1167723
+Status: Unreviewed
+UniProt ID: Q5ZWL4
+Nome da proteina: transposase TnpA (Uma4)
+Funcao molecular: Viral functions / Phage / Transposases
+Localizacao celular: -
+
+Nome do gene: lpg1072(-)
+Zona do genoma: 1167775-1168696
+Status: Unreviewed
+UniProt ID: Q5ZWL3
+Nome da proteina: transposase TnpA
+Funcao molecular: Viral functions / Phage / Transposases
+Localizacao celular: -
+
+Nome do gene: lpg1073(-)
+Zona do genoma: 1168784-1169912
+Status: Unreviewed
+UniProt ID: Q5ZWL2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1074(-)
+Zona do genoma: 1170029-1171214
+Status: Unreviewed
+UniProt ID: Q5ZWL1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1075(-)
+Zona do genoma: 1171464-1171806
+Status: Unreviewed
+UniProt ID: Q5ZWL0
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1076(-)
+Zona do genoma: 1171592-1171865
+Status: Unreviewed
+UniProt ID: Q5ZWK9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1077(-)
+Zona do genoma: 1172002-1173712
+Status: Unreviewed
+UniProt ID: Q5ZWK8
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1078(-)
+Zona do genoma: 1173776-1174148
+Status: Unreviewed
+UniProt ID: Q5ZWK7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1079(-)
+Zona do genoma: 1174402-1174573
+Status: Unreviewed
+UniProt ID: Q5ZWK6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1080(-)
+Zona do genoma: 1174611-1175967
+Status: Unreviewed
+UniProt ID: Q5ZWK5
+Nome da proteina: deoxyguanosinetriphosphate triphosphohydrolase-like protein
+Funcao molecular: Nucleotide Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1081(-)
+Zona do genoma: 1176202-1177705
+Status: Unreviewed
+UniProt ID: Q5ZWK4
+Nome da proteina: reverse transcriptase
+Funcao molecular: Viral functions / Phage / Transposases, Transcription
+Localizacao celular: -
+
+Nome do gene: lpg1082(-)
+Zona do genoma: 1177925-1178333
+Status: Unreviewed
+UniProt ID: Q5ZWK3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1083(-)
+Zona do genoma: 1178481-1179165
+Status: Unreviewed
+UniProt ID: Q5ZWK2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1084(-)
+Zona do genoma: 1179250-1180282
+Status: Unreviewed
+UniProt ID: Q5ZWK1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1085(-)
+Zona do genoma: 1180278-1181523
+Status: Unreviewed
+UniProt ID: Q5ZWK0
+Nome da proteina: phage related integrase
+Funcao molecular: Viral functions / Phage / Transposases
+Localizacao celular: -
+
+Nome do gene: lpg1086(-)
+Zona do genoma: 1181858-1183307
+Status: Unreviewed
+UniProt ID: Q5ZWJ9
+Nome da proteina: IS4 family transposase TnpA
+Funcao molecular: Viral functions / Phage / Transposases
+Localizacao celular: -
+
+Nome do gene: lpg1087(-)
+Zona do genoma: 1183472-1185080
+Status: Unreviewed
+UniProt ID: Q5ZWJ8
+Nome da proteina: virulence factor MviN
+Funcao molecular: Toxin production / other pathogen functions
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg1088(-)
+Zona do genoma: 1185394-1187200
+Status: Unreviewed
+UniProt ID: Q5ZWJ7
+Nome da proteina: nucleotidyltransferase
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: -
+
+Nome do gene: lpg1089(-)
+Zona do genoma: 1187306-1187918
+Status: Unreviewed
+UniProt ID: Q5ZWJ6
+Nome da proteina: methyltransferase
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1090(-)
+Zona do genoma: 1188292-1188814
+Status: Unreviewed
+UniProt ID: Q5ZWJ5
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1091(-)
+Zona do genoma: 1189117-1189561
+Status: Unreviewed
+UniProt ID: Q5ZWJ4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1092(-)
+Zona do genoma: 1190100-1190814
+Status: Unreviewed
+UniProt ID: Q5ZWJ3
+Nome da proteina: beta-phosphoglucomutase
+Funcao molecular: Metabolism of Complex Carbohydrates
+Localizacao celular: -
+
+Nome do gene: lpg1093(pacL)
+Zona do genoma: 1191286-1194001
+Status: Unreviewed
+UniProt ID: Q5ZWJ2
+Nome da proteina: cation efflux transporter
+Funcao molecular: Metabolism of Complex Carbohydrates, Metabolism of Cofactors and Vitamins
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1094(-)
+Zona do genoma: 1193984-1195244
+Status: Unreviewed
+UniProt ID: Q5ZWJ1
+Nome da proteina: chemiosmotic efflux system B protein C
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg1095(-)
+Zona do genoma: 1195240-1196377
+Status: Unreviewed
+UniProt ID: Q5ZWJ0
+Nome da proteina: chemiosmotic efflux system B protein B
+Funcao molecular: Transport and binding
+Localizacao celular: membrane
+
+Nome do gene: lpg1096(-)
+Zona do genoma: 1196391-1199544
+Status: Unreviewed
+UniProt ID: Q5ZWI9
+Nome da proteina: chemiosmotic efflux system B protein A
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1097(phbC)
+Zona do genoma: 1199936-1201724
+Status: Unreviewed
+UniProt ID: Q5ZWI8
+Nome da proteina: polyhydroxyalkanoic synthase
+Funcao molecular: Carbohydrate Metabolism, Amino Acid Metabolism, Biodegradation of Xenobiotics, Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates, Metabolism of Complex Lipids
+Localizacao celular: -
+
+Nome do gene: lpg1098(-)
+Zona do genoma: 1202264-1202456
+Status: Unreviewed
+UniProt ID: Q5ZWI7
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1099(-)
+Zona do genoma: 1202600-1203059
+Status: Unreviewed
+UniProt ID: Q5ZWI6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1100(-)
+Zona do genoma: 1203181-1203784
+Status: Unreviewed
+UniProt ID: Q5ZWI5
+Nome da proteina: proton transporter
+Funcao molecular: Transport and binding, Metabolism of Complex Carbohydrates
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1101(-)
+Zona do genoma: 1204272-1205241
+Status: Unreviewed
+UniProt ID: Q5ZWI4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: host cell cytoplasmic vesicle
+
+Nome do gene: lpg1102(-)
+Zona do genoma: 1205522-1206386
+Status: Unreviewed
+UniProt ID: Q5ZWI3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1103(-)
+Zona do genoma: 1206678-1207890
+Status: Unreviewed
+UniProt ID: Q5ZWI2
+Nome da proteina: hypothetical protein
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: -
+
+Nome do gene: lpg1104(-)
+Zona do genoma: 1207933-1208926
+Status: Unreviewed
+UniProt ID: Q5ZWI1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1105(-)
+Zona do genoma: 1209124-1209628
+Status: Unreviewed
+UniProt ID: Q5ZWI0
+Nome da proteina: methionine sulfoxide reductase B
+Funcao molecular: Detoxification / adaptation
+Localizacao celular: -
+
+Nome do gene: lpg1106(-)
+Zona do genoma: 1209726-1211001
+Status: Unreviewed
+UniProt ID: Q5ZWH9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1107(-)
+Zona do genoma: 1211242-1211662
+Status: Unreviewed
+UniProt ID: Q5ZWH8
+Nome da proteina: transporter family protein
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1108(-)
+Zona do genoma: 1211847-1212729
+Status: Unreviewed
+UniProt ID: Q5ZWH7
+Nome da proteina: lipase
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: -
+
+Nome do gene: lpg1109(-)
+Zona do genoma: 1212967-1215028
+Status: Unreviewed
+UniProt ID: Q5ZWH6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1110(-)
+Zona do genoma: 1215532-1216228
+Status: Unreviewed
+UniProt ID: Q5ZWH5
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1111(-)
+Zona do genoma: 1216316-1216955
+Status: Unreviewed
+UniProt ID: Q5ZWH4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1112(-)
+Zona do genoma: 1217235-1217619
+Status: Unreviewed
+UniProt ID: Q5ZWH3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1113(-)
+Zona do genoma: 1217834-1218575
+Status: Unreviewed
+UniProt ID: Q5ZWH2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1114(-)
+Zona do genoma: 1218657-1221027
+Status: Unreviewed
+UniProt ID: Q5ZWH1
+Nome da proteina: sensory box protein
+Funcao molecular: Signal transduction / other regulatory functions
+Localizacao celular: intracellular
+
+Nome do gene: lpg1115(kaiC2)
+Zona do genoma: 1221312-1222989
+Status: Unreviewed
+UniProt ID: Q5ZWH0
+Nome da proteina: circadian clock protein KaiC
+Funcao molecular: Replication and Repair
+Localizacao celular: -
+
+Nome do gene: lpg1116(-)
+Zona do genoma: 1223381-1225733
+Status: Unreviewed
+UniProt ID: Q5ZWG9
+Nome da proteina: hypothetical protein
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: -
+
+Nome do gene: lpg1117(paiA)
+Zona do genoma: 1225771-1226245
+Status: Unreviewed
+UniProt ID: Q5ZWG8
+Nome da proteina: hypothetical protein
+Funcao molecular: Protein fate / hydrolases / secretion, Chemotaxis / motility / cell division, Transcription factors / DNA binding proteins
+Localizacao celular: -
+
+Nome do gene: lpg1118(-)
+Zona do genoma: 1226336-1227452
+Status: Unreviewed
+UniProt ID: Q5ZWG7
+Nome da proteina: serine-type D-Ala-D-Ala carboxypeptidase
+Funcao molecular: Protein fate / hydrolases / secretion
+Localizacao celular: -
+
+Nome do gene: lpg1119(-)
+Zona do genoma: 1227719-1228784
+Status: Unreviewed
+UniProt ID: Q5ZWG6
+Nome da proteina: major acid phosphatase
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1120(-)
+Zona do genoma: 1229115-1230882
+Status: Unreviewed
+UniProt ID: Q5ZWG5
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1121(-)
+Zona do genoma: 1231463-1232234
+Status: Unreviewed
+UniProt ID: Q5ZWG4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1122(-)
+Zona do genoma: 1232861-1234190
+Status: Unreviewed
+UniProt ID: Q5ZWG3
+Nome da proteina: membrane bound lytic murein transglycosylase D
+Funcao molecular: Metabolism of Complex Carbohydrates, Nucleotide Metabolism
+Localizacao celular: membrane
+
+Nome do gene: lpg1123(artJ)
+Zona do genoma: 1234315-1235077
+Status: Unreviewed
+UniProt ID: Q5ZWG2
+Nome da proteina: arginine ABC transporter substrate-binding protein
+Funcao molecular: Transport and binding
+Localizacao celular: -
+
+Nome do gene: lpg1124(-)
+Zona do genoma: 1235312-1235903
+Status: Unreviewed
+UniProt ID: Q5ZWG1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1125(-)
+Zona do genoma: 1236120-1236879
+Status: Unreviewed
+UniProt ID: Q5ZWG0
+Nome da proteina: amino acid ABC transporter substrate-binding protein
+Funcao molecular: Transport and binding
+Localizacao celular: membrane
+
+Nome do gene: lpg1126(-)
+Zona do genoma: 1237161-1240623
+Status: Unreviewed
+UniProt ID: Q5ZWF9
+Nome da proteina: calcium-transporting ATPase
+Funcao molecular: Transport and binding
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1127(-)
+Zona do genoma: 1240718-1242227
+Status: Unreviewed
+UniProt ID: Q5ZWF8
+Nome da proteina: acyl CoA synthetase, long chain fatty acid:CoA ligase
+Funcao molecular: Lipid Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1128(-)
+Zona do genoma: 1242309-1242774
+Status: Unreviewed
+UniProt ID: Q5ZWF7
+Nome da proteina: cytidine/deoxycytidylate deaminase
+Funcao molecular: Nucleotide Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1129(-)
+Zona do genoma: 1243201-1244761
+Status: Unreviewed
+UniProt ID: Q5ZWF6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1130(cyaA4)
+Zona do genoma: 1244889-1246341
+Status: Unreviewed
+UniProt ID: Q5ZWF5
+Nome da proteina: adenylate cyclase
+Funcao molecular: Nucleotide Metabolism
+Localizacao celular: intracellular
+
+Nome do gene: lpg1131(cfa)
+Zona do genoma: 1246993-1248160
+Status: Unreviewed
+UniProt ID: Q5ZWF4
+Nome da proteina: cyclopropane-fatty-acyl-phospholipid synthase
+Funcao molecular: Lipid Metabolism, Metabolism of Complex Lipids
+Localizacao celular: -
+
+Nome do gene: lpg1132(-)
+Zona do genoma: 1248174-1248555
+Status: Unreviewed
+UniProt ID: Q5ZWF3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1133(-)
+Zona do genoma: 1248525-1248705
+Status: Unreviewed
+UniProt ID: Q5ZWF2
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1134(-)
+Zona do genoma: 1248771-1249824
+Status: Unreviewed
+UniProt ID: Q5ZWF1
+Nome da proteina: nitropropane dioxygenase/trans-enoyl-CoA reductase
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1135(-)
+Zona do genoma: 1249801-1250413
+Status: Unreviewed
+UniProt ID: Q5ZWF0
+Nome da proteina: TetR family regulatory protein
+Funcao molecular: Transcription factors / DNA binding proteins
+Localizacao celular: -
+
+Nome do gene: lpg1136(-)
+Zona do genoma: 1250582-1251485
+Status: Unreviewed
+UniProt ID: Q5ZWE9
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1137(-)
+Zona do genoma: 1252018-1252987
+Status: Unreviewed
+UniProt ID: Q5ZWE8
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1138(-)
+Zona do genoma: 1253246-1254269
+Status: Unreviewed
+UniProt ID: Q5ZWE7
+Nome da proteina: spermidine/putrescine ABC transporter substrate-binding protein
+Funcao molecular: Transport and binding
+Localizacao celular: periplasmic space
+
+Nome do gene: lpg1139(potC)
+Zona do genoma: 1254265-1255033
+Status: Unreviewed
+UniProt ID: Q5ZWE6
+Nome da proteina: spermidine/putrescine ABC transporter permease
+Funcao molecular: Transport and binding
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg1140(potB)
+Zona do genoma: 1255029-1255854
+Status: Unreviewed
+UniProt ID: Q5ZWE5
+Nome da proteina: spermidine/putrescine ABC transporter permease PotB
+Funcao molecular: Transport and binding
+Localizacao celular: plasma membrane
+
+Nome do gene: lpg1141(potA)
+Zona do genoma: 1255843-1256992
+Status: Reviewed
+UniProt ID: POTA
+Nome da proteina: putrescine/spermidine ABC transporter ATPase
+Funcao molecular: Transport and binding
+Localizacao celular: ATP-binding cassette (ABC) transporter complex
+
+Nome do gene: lpg1142(-)
+Zona do genoma: 1257167-1257398
+Status: Unreviewed
+UniProt ID: Q5ZWE3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1143(-)
+Zona do genoma: 1257597-1258482
+Status: Unreviewed
+UniProt ID: Q5ZWE2
+Nome da proteina: short chain type dehydrogenase/reductase
+Funcao molecular: Lipid Metabolism
+Localizacao celular: -
+
+Nome do gene: lpg1144(-)
+Zona do genoma: 1258828-1259335
+Status: Unreviewed
+UniProt ID: Q5ZWE1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1145(-)
+Zona do genoma: 1259593-1261903
+Status: Unreviewed
+UniProt ID: Q5ZWE0
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1146(-)
+Zona do genoma: 1262032-1263514
+Status: Unreviewed
+UniProt ID: Q5ZWD9
+Nome da proteina: thermostable carboxypeptidase 1
+Funcao molecular: DNA/RNA degradation / restriction
+Localizacao celular: -
+
+Nome do gene: lpg1147(-)
+Zona do genoma: 1263574-1264078
+Status: Unreviewed
+UniProt ID: Q5ZWD8
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1148(lupA)
+Zona do genoma: 1264367-1265879
+Status: Unreviewed
+UniProt ID: Q5ZWD7
+Nome da proteina: ubiquitin-specific protease A
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1149(-)
+Zona do genoma: 1266056-1266839
+Status: Unreviewed
+UniProt ID: Q5ZWD6
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: integral component of membrane
+
+Nome do gene: lpg1150(-)
+Zona do genoma: 1266926-1268006
+Status: Unreviewed
+UniProt ID: Q5ZWD5
+Nome da proteina: transcription regulator protein
+Funcao molecular: Detoxification / adaptation, Transcription factors / DNA binding proteins
+Localizacao celular: -
+
+Nome do gene: lpg1151(-)
+Zona do genoma: 1268082-1269606
+Status: Unreviewed
+UniProt ID: Q5ZWD4
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1152(-)
+Zona do genoma: 1269764-1270721
+Status: Unreviewed
+UniProt ID: Q5ZWD3
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1153(-)
+Zona do genoma: 1270620-1272108
+Status: Unreviewed
+UniProt ID: Q5ZWD2
+Nome da proteina: amine oxidase
+Funcao molecular: Amino Acid Metabolism, Biosynthesis of Secondary Metabolites
+Localizacao celular: -
+
+Nome do gene: lpg1154(-)
+Zona do genoma: 1272593-1273676
+Status: Unreviewed
+UniProt ID: Q5ZWD1
+Nome da proteina: hypothetical protein
+Funcao molecular: -
+Localizacao celular: -
+
+Nome do gene: lpg1155(-)
+Zona do genoma: 1273915-1275595
+Status: Unreviewed
+UniProt ID: Q5ZWD0
+Nome da proteina: pyruvate decarboxylase
+Funcao molecular: Carbohydrate Metabolism
+Localizacao celular: -
