@@ -1,0 +1,231 @@
+Accession;Start;Stop;Strand;GeneID;Locus;Locus tag;Protein Id;Length;Protein Name;Function
+NC_002942.5;998716;1001101;-1;19832491;ponA;lpg0925;YP_094959.1;794;penicillin binding protein 1A;Cell envelope synthesis
+NC_002942.5;1001252;1002263;-1;19832492;-;lpg0926;YP_094960.1;336;hypothetical protein;-
+NC_002942.5;1002679;1003744;1;19832493;pilM;lpg0927;YP_094961.1;354;type IV pilus assembly protein PilM;Transport and binding
+NC_002942.5;1003747;1004296;1;19832494;pilN;lpg0928;YP_094962.1;182;type IV pilus biogenesis protein PilN;Transport and binding
+NC_002942.5;1004273;1004909;1;19832495;pilO;lpg0929;YP_094963.1;211;type IV pilus biogenesis protein PilO;Transport and binding
+NC_002942.5;1004905;1005493;1;19832496;pilP;lpg0930;YP_094964.1;195;type IV pilus biogenesis protein PilP;Transport and binding
+NC_002942.5;1005496;1007593;1;19832497;pilQ;lpg0931;YP_094965.1;698;type IV pilus biogenesis protein PilQ;Transport and binding
+NC_002942.5;1008038;1008566;1;19832498;aroK;lpg0932;YP_094966.1;175;shikimate kinase I;Amino Acid Metabolism
+NC_002942.5;1008552;1009662;1;19832499;aroB;lpg0933;YP_094967.1;369;3-dehydroquinate synthase;Amino Acid Metabolism
+NC_002942.5;1009658;1011110;1;19832500;-;lpg0934;YP_094968.1;483;DamX-like protein;Chemotaxis / motility / cell division
+NC_002942.5;1011218;1011650;1;19832501;-;lpg0935;YP_094969.1;143;universal stress protein A (UspA);Detoxification / adaptation
+NC_002942.5;1011773;1012760;1;19832502;ribF;lpg0936;YP_094970.1;328;riboflavin biosynthesis RibF;Metabolism of Cofactors and Vitamins
+NC_002942.5;1012872;1015668;1;19832503;ileS;lpg0937;YP_094971.1;931;isoleucyl-tRNA synthetase;Amino Acid Metabolism, Translation
+NC_002942.5;1015763;1016129;1;19832504;lspA;lpg0938;YP_094972.1;121;lipoprotein signal peptidase;Protein fate / hydrolases / secretion
+NC_002942.5;1016427;1016991;-1;19832505;eda;lpg0939;YP_094973.1;187;2-dehydro-3-deoxyphosphooctonate aldolase;Carbohydrate Metabolism, Amino Acid Metabolism
+NC_002942.5;1017170;1019360;-1;19832506;-;lpg0940;YP_094974.1;729;LidA;Toxin production / other pathogen functions
+NC_002942.5;1019601;1022727;-1;19832507;-;lpg0941;YP_094975.1;1041;hypothetical protein;-
+NC_002942.5;1022940;1023876;1;19832508;era;lpg0942;YP_094976.1;311;GTP-binding protein Era;Signal transduction / other regulatory functions
+NC_002942.5;1023865;1024555;1;19832509;recO;lpg0943;YP_094977.1;229;DNA repair protein RecO;Replication and Repair
+NC_002942.5;1024610;1025786;-1;19832510;-;lpg0944;YP_094978.1;391;hypothetical protein;-
+NC_002942.5;1025948;1026839;-1;19832511;legL1;lpg0945;YP_094979.1;296;Gala protein type 1, 3 or 4;-
+NC_002942.5;1027067;1027874;1;19832512;pdxJ;lpg0946;YP_094980.1;268;pyridoxine 5'-phosphate synthase;Metabolism of Cofactors and Vitamins
+NC_002942.5;1027860;1029678;1;19832513;-;lpg0947;YP_094981.1;605;2-oxoglutarate ferredoxin oxidoreductase subunit alpha;Carbohydrate Metabolism, Energy Metabolism
+NC_002942.5;1029637;1030630;1;19832514;korB;lpg0948;YP_094982.1;330;2-oxoglutarate ferredoxin oxidoreductase subunit beta;Carbohydrate Metabolism, Energy Metabolism
+NC_002942.5;1030958;1031633;-1;19832515;-;lpg0949;YP_094983.1;224;carrier/transport protein;Transport and binding
+NC_002942.5;1031851;1032658;1;19832516;-;lpg0950;YP_094984.1;268;nitrilase;Protein fate / hydrolases / secretion
+NC_002942.5;1032669;1034112;1;19832517;tldD;lpg0951;YP_094985.1;480;TldD protein;Signal transduction / other regulatory functions, Replication and Repair
+NC_002942.5;1034157;1035036;1;19832518;ychK;lpg0952;YP_094986.1;292;phosphoesterase;Protein fate / hydrolases / secretion
+NC_002942.5;1035062;1036730;1;19832519;-;lpg0953;YP_094987.1;555;AMP-binding protein;Lipid Metabolism
+NC_002942.5;1036708;1040170;-1;19832520;mfd;lpg0954;YP_094988.1;1153;transcription repair coupling factor;Transcription, Replication and Repair
+NC_002942.5;1040246;1041509;-1;19832521;-;lpg0955;YP_094989.1;420;hypothetical protein;Replication and Repair
+NC_002942.5;1041512;1042691;-1;19832522;-;lpg0956;YP_094990.1;392;hypothetical protein;-
+NC_002942.5;1042687;1043593;-1;19832523;-;lpg0957;YP_094991.1;301;hypothetical protein;-
+NC_002942.5;1043779;1045831;1;19832524;lig;lpg0958;YP_094992.1;683;DNA ligase;Replication and Repair
+NC_002942.5;1045932;1048116;1;19832525;hbpA;lpg0959;YP_094993.1;727;ABC transporter substrate-binding protein;Transport and binding
+NC_002942.5;1048112;1049090;1;19832526;-;lpg0960;YP_094994.1;325;peptide ABC transporter permease;Transport and binding
+NC_002942.5;1049086;1050460;1;19832527;-;lpg0961;YP_094995.1;457;peptide ABC transporter permease;Transport and binding
+NC_002942.5;1050534;1053981;1;19832528;dnaE;lpg0962;YP_094996.1;1148;DNA polymerase III subunit alpha;Replication and Repair
+NC_002942.5;1054066;1055308;-1;19832529;-;lpg0963;YP_094997.1;413;hypothetical protein;-
+NC_002942.5;1055637;1056522;1;19832530;-;lpg0964;YP_094998.1;294;phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase;Metabolism of Cofactors and Vitamins
+NC_002942.5;1056482;1058030;1;19832531;-;lpg0965;YP_094999.1;515;protein LphB;-
+NC_002942.5;1058084;1059962;1;19832532;-;lpg0966;YP_095000.1;625;nucleoside-diphosphate sugar epimerases;Nucleotide Metabolism
+NC_002942.5;1060107;1060701;-1;19832533;-;lpg0967;YP_095001.1;197;hypothetical protein;-
+NC_002942.5;1061065;1062787;-1;19832534;-;lpg0968;YP_095002.1;573;hypothetical protein;-
+NC_002942.5;1063227;1063968;1;19832535;-;lpg0969;YP_095003.1;246;hypothetical protein;-
+NC_002942.5;1064069;1065533;-1;19832536;-;lpg0970;YP_095004.1;487;amino acid permease;Transport and binding
+NC_002942.5;1065913;1067059;1;19832537;-;lpg0971;YP_095005.1;381;ecto-ATP diphosphohydrolase II;Nucleotide Metabolism
+NC_002942.5;1067616;1068375;1;19832539;-;lpg0973;YP_095006.1;252;hypothetical protein;-
+NC_002942.5;1068446;1069526;1;19832540;-;lpg0974;YP_095007.1;359;hypothetical protein;-
+NC_002942.5;1069545;1070385;-1;19832541;-;lpg0975;YP_095008.1;279;transmembrane protein;Transport and binding
+NC_002942.5;1070520;1071027;-1;19832542;-;lpg0976;YP_095009.1;168;antirestriction protein;DNA/RNA degradation / restriction, Signal transduction / other regulatory functions
+NC_002942.5;1071092;1071515;-1;19832543;-;lpg0977;YP_095010.1;140;ssDNA-binding protein;Replication and Repair
+NC_002942.5;1071615;1071864;-1;19832544;-;lpg0978;YP_095011.1;82;hypothetical protein;-
+NC_002942.5;1072220;1072760;1;19832545;aacA4;lpg0979;YP_095012.1;179;aminoglycoside N(6')acetyltransferase;-
+NC_002942.5;1072751;1073675;-1;19832546;-;lpg0980;YP_095013.1;307;integrase;Viral functions / Phage / Transposases
+NC_002942.5;1073643;1074453;-1;19832547;-;lpg0981;YP_095014.1;269;hypothetical protein;-
+NC_002942.5;1075236;1076103;1;19832548;-;lpg0982;YP_095015.1;288;hypothetical protein;-
+NC_002942.5;1076121;1078068;-1;19832549;-;lpg0983;YP_095016.1;648;conjugative coupling factor TraD;Transport and binding
+NC_002942.5;1078064;1078394;-1;19832550;-;lpg0984;YP_095017.1;109;hypothetical protein;-
+NC_002942.5;1078408;1078582;1;19832551;-;lpg0985;YP_095018.1;57;hypothetical protein;-
+NC_002942.5;1078587;1080141;-1;19832552;-;lpg0986;YP_095019.1;517;hypothetical protein;-
+NC_002942.5;1080143;1081511;-1;19832553;-;lpg0987;YP_095020.1;455;Tfp pilus assembly, pilus retraction ATPase PilT;-
+NC_002942.5;1081520;1082495;-1;19832554;-;lpg0988;YP_095021.1;324;hypothetical protein;-
+NC_002942.5;1082487;1085241;-1;19832555;-;lpg0989;YP_095022.1;917;Type IV secretory protein VirB4 components;Transport and binding
+NC_002942.5;1085247;1085571;-1;19832556;-;lpg0990;YP_095023.1;107;hypothetical protein;-
+NC_002942.5;1085551;1086811;-1;19832557;-;lpg0991;YP_095024.1;419;exported membrane protein;-
+NC_002942.5;1086807;1087644;-1;19832558;-;lpg0992;YP_095025.1;278;hypothetical protein;-
+NC_002942.5;1087570;1088227;-1;19832559;-;lpg0993;YP_095026.1;218;hypothetical protein;-
+NC_002942.5;1088219;1088582;-1;19832560;-;lpg0994;YP_095027.1;120;hypothetical protein;-
+NC_002942.5;1088593;1088959;-1;19832315;-;lpg0995;YP_095028.1;121;hypothetical protein;-
+NC_002942.5;1088955;1089222;-1;19832561;-;lpg0996;YP_095029.1;88;hypothetical protein;-
+NC_002942.5;1089221;1089548;-1;19832562;-;lpg0997;YP_095030.1;108;hypothetical protein;-
+NC_002942.5;1089557;1090190;-1;19832563;-;lpg0998;YP_095031.1;210;hypothetical protein;-
+NC_002942.5;1090180;1090612;-1;19832564;-;lpg0999;YP_095032.1;143;hypothetical protein;-
+NC_002942.5;1090611;1091433;-1;19832565;-;lpg1000;YP_095033.1;273;hypothetical protein;-
+NC_002942.5;1091425;1092013;-1;19832566;-;lpg1001;YP_095034.1;195;hypothetical protein;-
+NC_002942.5;1092009;1092423;-1;19832567;-;lpg1002;YP_095035.1;137;hypothetical protein;-
+NC_002942.5;1092431;1092632;-1;19832568;csrA-2;lpg1003;YP_095036.1;66;carbon storage regulator;-
+NC_002942.5;1092625;1092979;-1;19832569;-;lpg1004;YP_095037.1;117;hypothetical protein;-
+NC_002942.5;1092995;1093907;-1;19832570;lvrA;lpg1005;YP_095038.1;303;protein LvrA;Transport and binding
+NC_002942.5;1094785;1096030;1;19832571;-;lpg1006;YP_095039.1;414;cobalt/zinc/cadmium efflux RND transporter outer membrane protein;Transport and binding
+NC_002942.5;1096026;1097283;1;19832572;-;lpg1007;YP_095040.1;418;cation efflux system HelB;Transport and binding
+NC_002942.5;1097289;1100442;1;19832573;-;lpg1008;YP_095041.1;1050;cobalt/zinc/cadmium efflux RND transporter permease HelA;Transport and binding
+NC_002942.5;1100463;1102653;1;19832574;cadA-1;lpg1009;YP_095042.1;729;cadmium translocating P-type ATPase CadA;Metabolism of Complex Carbohydrates, Metabolism of Cofactors and Vitamins
+NC_002942.5;1103657;1105565;1;19832575;-;lpg1010;YP_095043.1;635;cadmium efflux ATPase;Transport and binding
+NC_002942.5;1105579;1105975;-1;19832576;-;lpg1011;YP_095044.1;131;hypothetical protein;-
+NC_002942.5;1106003;1106201;-1;19832577;-;lpg1012;YP_095045.1;65;hypothetical protein;-
+NC_002942.5;1106388;1106640;1;19832578;-;lpg1013;YP_095046.1;83;hypothetical protein;-
+NC_002942.5;1106700;1106874;1;19832579;-;lpg1014;YP_095047.1;57;dehydrogenase;-
+NC_002942.5;1106967;1107498;1;19832580;yueD;lpg1015;YP_095048.1;176;hypothetical protein;Metabolism of Cofactors and Vitamins
+NC_002942.5;1107779;1108664;-1;19832581;-;lpg1016;YP_095049.1;294;hypothetical protein;-
+NC_002942.5;1109618;1112147;1;19832582;mgtA;lpg1017;YP_095050.1;842;cation efflux transporter;Metabolism of Complex Carbohydrates, Metabolism of Cofactors and Vitamins
+NC_002942.5;1112133;1113393;1;19832583;-;lpg1018;YP_095051.1;419;chemiosmotic efflux system B protein C;Transport and binding
+NC_002942.5;1113389;1114523;1;19832584;-;lpg1019;YP_095052.1;377;chemiosmotic efflux system B protein B;Transport and binding
+NC_002942.5;1114601;1117745;1;19832585;-;lpg1020;YP_095053.1;1047;chemiosmotic efflux system B protein A;Transport and binding
+NC_002942.5;1117741;1119103;1;19832586;-;lpg1021;YP_095054.1;453;metallo-beta lactamase;Detoxification / adaptation, Transcription
+NC_002942.5;1119060;1120614;1;19832587;deoA;lpg1022;YP_095055.1;517;thymidine phosphorylase;Nucleotide Metabolism
+NC_002942.5;1120610;1121522;1;19832588;-;lpg1023;YP_095056.1;303;phosphoribosylpyrophosphate synthetase;Carbohydrate Metabolism, Nucleotide Metabolism
+NC_002942.5;1121779;1123990;1;19832589;-;lpg1024;YP_095057.1;736;copper efflux ATPase;Transport and binding
+NC_002942.5;1124129;1125011;1;19832590;yegE;lpg1025;YP_095058.1;293;sensory box/GGDEF family protein;Signal transduction / other regulatory functions
+NC_002942.5;1125147;1125522;1;19832591;-;lpg1026;YP_095059.1;124;outer membrane lipoprotein;-
+NC_002942.5;1125522;1126860;1;19832592;-;lpg1027;YP_095060.1;445;chemiosmotic efflux system C protein C;Transport and binding
+NC_002942.5;1126856;1127825;1;19832593;-;lpg1028;YP_095061.1;322;chemiosmotic efflux system C protein B;Transport and binding
+NC_002942.5;1127825;1131041;1;19832594;-;lpg1029;YP_095062.1;1071;chemiosmotic efflux system protein A-like protein;Transport and binding
+NC_002942.5;1131037;1131490;1;19832595;-;lpg1030;YP_095063.1;150;hypothetical protein;-
+NC_002942.5;1131628;1131973;-1;19832596;-;lpg1031;YP_095064.1;114;hypothetical protein;-
+NC_002942.5;1132175;1133855;1;19832597;-;lpg1032;YP_095065.1;559;hypothetical protein;-
+NC_002942.5;1133866;1134073;-1;19832598;-;lpg1033;YP_095066.1;68;hypothetical protein;-
+NC_002942.5;1134218;1134746;1;19832599;-;lpg1034;YP_095067.1;175;hypothetical protein;-
+NC_002942.5;1134772;1137847;1;19832600;pcoA;lpg1035;YP_095068.1;1024;copper efflux ATPase;Transport and binding
+NC_002942.5;1138084;1138552;-1;19832601;-;lpg1036;YP_095069.1;155;outer membrane lipoprotein;-
+NC_002942.5;1138657;1138825;-1;19832602;-;lpg1037;YP_095070.1;55;hypothetical protein;-
+NC_002942.5;1139067;1139385;-1;19832603;-;lpg1038;YP_095071.1;105;VrrB;-
+NC_002942.5;1139570;1139867;1;19832604;-;lpg1039;YP_095072.1;98;hypothetical protein;-
+NC_002942.5;1139872;1140538;1;19832605;-;lpg1040;YP_095073.1;221;S-isoprenylcysteine methyltransferase;Transport and binding
+NC_002942.5;1140537;1141035;1;19832606;-;lpg1041;YP_095074.1;165;hypothetical protein;-
+NC_002942.5;1141102;1142020;-1;19832607;-;lpg1042;YP_095075.1;305;hypothetical protein;-
+NC_002942.5;1141920;1142682;-1;19832608;-;lpg1043;YP_095076.1;253;hypothetical protein;-
+NC_002942.5;1142681;1144655;-1;19832609;-;lpg1044;YP_095077.1;657;oxidoreductase, FAD-binding;Energy Metabolism
+NC_002942.5;1144669;1144864;1;19832610;-;lpg1045;YP_095078.1;64;hypothetical protein;-
+NC_002942.5;1144897;1145287;1;19832611;-;lpg1046;YP_095079.1;129;hypothetical protein;-
+NC_002942.5;1145318;1146188;-1;19832612;atpG;lpg1047;YP_095080.1;289;ATP synthase subunit gamma C-terminus;Energy Metabolism
+NC_002942.5;1146245;1147718;-1;19832613;-;lpg1048;YP_095081.1;490;ATP synthase F0F1 subunit alpha;Energy Metabolism
+NC_002942.5;1147704;1148448;-1;19832614;-;lpg1049;YP_095082.1;247;H(+) transporting ATP synthase subunit B;Energy Metabolism
+NC_002942.5;1148453;1148642;-1;19832615;-;lpg1050;YP_095083.1;62;ATP synthase subunit C;Energy Metabolism
+NC_002942.5;1148725;1149418;-1;19832616;atpA;lpg1051;YP_095084.1;230;ATP synthase F0F1 subunit A;Energy Metabolism
+NC_002942.5;1149420;1149699;-1;19832617;-;lpg1052;YP_095085.1;92;ATP synthase;-
+NC_002942.5;1149688;1150099;-1;19832618;-;lpg1053;YP_095086.1;136;ATP synthase F0F1 subunit epsilon;Energy Metabolism
+NC_002942.5;1150107;1151532;-1;19832619;atpD;lpg1054;YP_095087.1;474;ATP synthase F0F1 subunit beta;Energy Metabolism
+NC_002942.5;1151869;1152310;-1;19832620;-;lpg1055;YP_095088.1;146;hypothetical protein;-
+NC_002942.5;1154000;1154543;1;19832621;-;lpg1056;YP_095089.1;180;guanylate cyclase;Signal transduction / other regulatory functions, Nucleotide Metabolism
+NC_002942.5;1154508;1156029;1;19832622;-;lpg1057;YP_095090.1;506;sensory box/GGDEF family protein;Signal transduction / other regulatory functions
+NC_002942.5;1156198;1158001;1;19832623;phbC;lpg1058;YP_095091.1;600;polyhydroxyalkanoic synthase;Amino Acid Metabolism, Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates, Metabolism of Complex Lipids, Biodegradation of Xenobiotics, Carbohydrate Metabolism
+NC_002942.5;1158151;1158949;-1;19832624;phaB;lpg1059;YP_095092.1;265;acetoacetyl CoA reductase;Carbohydrate Metabolism
+NC_002942.5;1158966;1159230;-1;19832625;-;lpg1060;YP_095093.1;87;cold shock domain-contain protein;Detoxification / adaptation
+NC_002942.5;1159281;1159740;-1;19832626;-;lpg1061;YP_095094.1;152;hypothetical protein;-
+NC_002942.5;1159897;1160926;1;19832627;-;lpg1062;YP_095095.1;342;hypothetical protein;Toxin production / other pathogen functions
+NC_002942.5;1161307;1162600;-1;19832628;proP6;lpg1063;YP_095096.1;430;proline/betaine transporter ProP6;Transport and binding
+NC_002942.5;1162604;1163123;-1;19832629;-;lpg1064;YP_095097.1;172;polypeptide deformylase;Translation
+NC_002942.5;1163106;1163745;-1;19832630;-;lpg1065;YP_095098.1;212;hypothetical protein;-
+NC_002942.5;1163707;1164265;-1;19832631;-;lpg1066;YP_095099.1;185;hypothetical protein;-
+NC_002942.5;1164408;1164666;1;19832632;-;lpg1067;YP_095100.1;85;hypothetical protein;-
+NC_002942.5;1164677;1164881;1;19832633;-;lpg1068;YP_095101.1;67;hypothetical protein;-
+NC_002942.5;1164904;1165927;-1;19832634;-;lpg1069;YP_095102.1;340;AbiD phage protein-like;Viral functions / Phage / Transposases
+NC_002942.5;1165936;1167118;-1;19832635;int;lpg1070;YP_095103.1;393;integrase, phage related;Viral functions / Phage / Transposases
+NC_002942.5;1167447;1167723;-1;19832636;-;lpg1071;YP_095104.1;91;transposase TnpA (Uma4);Viral functions / Phage / Transposases
+NC_002942.5;1167775;1168696;-1;19832637;-;lpg1072;YP_095105.1;306;transposase TnpA;Viral functions / Phage / Transposases
+NC_002942.5;1168784;1169912;1;19832638;-;lpg1073;YP_095106.1;375;hypothetical protein;-
+NC_002942.5;1170029;1171214;-1;19832639;-;lpg1074;YP_095107.1;394;hypothetical protein;-
+NC_002942.5;1171464;1171806;1;19832640;-;lpg1075;YP_095108.1;113;hypothetical protein;-
+NC_002942.5;1171592;1171865;-1;19832641;-;lpg1076;YP_095109.1;90;hypothetical protein;-
+NC_002942.5;1172002;1173712;-1;19832642;-;lpg1077;YP_095110.1;569;hypothetical protein;-
+NC_002942.5;1173776;1174148;-1;19832643;-;lpg1078;YP_095111.1;123;hypothetical protein;-
+NC_002942.5;1174402;1174573;1;19832644;-;lpg1079;YP_095112.1;56;hypothetical protein;-
+NC_002942.5;1174611;1175967;-1;19832645;-;lpg1080;YP_095113.1;451;deoxyguanosinetriphosphate triphosphohydrolase-like protein;Nucleotide Metabolism
+NC_002942.5;1176202;1177705;-1;19832646;-;lpg1081;YP_095114.1;500;reverse transcriptase;Viral functions / Phage / Transposases, Transcription
+NC_002942.5;1177925;1178333;1;19832647;-;lpg1082;YP_095115.1;135;hypothetical protein;-
+NC_002942.5;1178481;1179165;1;19832648;-;lpg1083;YP_095116.1;227;hypothetical protein;-
+NC_002942.5;1179250;1180282;-1;19832649;-;lpg1084;YP_095117.1;343;hypothetical protein;-
+NC_002942.5;1180278;1181523;-1;19832650;-;lpg1085;YP_095118.1;414;phage related integrase;Viral functions / Phage / Transposases
+NC_002942.5;1181858;1183307;1;19832651;-;lpg1086;YP_095119.1;482;IS4 family transposase TnpA;Viral functions / Phage / Transposases
+NC_002942.5;1183472;1185080;1;19832652;-;lpg1087;YP_095120.1;535;virulence factor MviN;Toxin production / other pathogen functions
+NC_002942.5;1185394;1187200;1;19832653;-;lpg1088;YP_095121.1;601;nucleotidyltransferase;Protein fate / hydrolases / secretion
+NC_002942.5;1187306;1187918;1;19832654;-;lpg1089;YP_095122.1;203;methyltransferase;-
+NC_002942.5;1188292;1188814;1;19832655;-;lpg1090;YP_095123.1;173;hypothetical protein;-
+NC_002942.5;1189117;1189561;1;19832656;-;lpg1091;YP_095124.1;147;hypothetical protein;-
+NC_002942.5;1190100;1190814;1;19832657;-;lpg1092;YP_095125.1;237;beta-phosphoglucomutase;Metabolism of Complex Carbohydrates
+NC_002942.5;1191286;1194001;1;19832658;pacL;lpg1093;YP_095126.1;904;cation efflux transporter;Metabolism of Complex Carbohydrates, Metabolism of Cofactors and Vitamins
+NC_002942.5;1193984;1195244;1;19832659;-;lpg1094;YP_095127.1;419;chemiosmotic efflux system B protein C;Transport and binding
+NC_002942.5;1195240;1196377;1;19832660;-;lpg1095;YP_095128.1;378;chemiosmotic efflux system B protein B;Transport and binding
+NC_002942.5;1196391;1199544;1;19832661;-;lpg1096;YP_095129.1;1050;chemiosmotic efflux system B protein A;Transport and binding
+NC_002942.5;1199936;1201724;1;19832662;phbC;lpg1097;YP_095130.1;595;polyhydroxyalkanoic synthase;Carbohydrate Metabolism, Amino Acid Metabolism, Biodegradation of Xenobiotics, Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates, Metabolism of Complex Lipids
+NC_002942.5;1202264;1202456;1;19832663;-;lpg1098;YP_095131.1;63;hypothetical protein;-
+NC_002942.5;1202600;1203059;1;19832664;-;lpg1099;YP_095132.1;152;hypothetical protein;-
+NC_002942.5;1203181;1203784;1;19832665;-;lpg1100;YP_095133.1;200;proton transporter;Transport and binding, Metabolism of Complex Carbohydrates
+NC_002942.5;1204272;1205241;1;19832666;-;lpg1101;YP_095134.1;322;hypothetical protein;-
+NC_002942.5;1205522;1206386;-1;19832667;-;lpg1102;YP_095135.1;287;hypothetical protein;-
+NC_002942.5;1206678;1207890;1;19832668;-;lpg1103;YP_095136.1;403;hypothetical protein;Protein fate / hydrolases / secretion
+NC_002942.5;1207933;1208926;-1;19832669;-;lpg1104;YP_095137.1;330;hypothetical protein;-
+NC_002942.5;1209124;1209628;1;19832670;-;lpg1105;YP_095138.1;167;methionine sulfoxide reductase B;Detoxification / adaptation
+NC_002942.5;1209726;1211001;-1;19832671;-;lpg1106;YP_095139.1;424;hypothetical protein;-
+NC_002942.5;1211242;1211662;-1;19832672;-;lpg1107;YP_095140.1;139;transporter family protein;Transport and binding
+NC_002942.5;1211847;1212729;-1;19832673;-;lpg1108;YP_095141.1;293;lipase;Protein fate / hydrolases / secretion
+NC_002942.5;1212967;1215028;-1;19832674;-;lpg1109;YP_095142.1;686;hypothetical protein;-
+NC_002942.5;1215532;1216228;1;19832675;-;lpg1110;YP_095143.1;231;hypothetical protein;-
+NC_002942.5;1216316;1216955;-1;19832676;-;lpg1111;YP_095144.1;212;hypothetical protein;-
+NC_002942.5;1217235;1217619;-1;19832677;-;lpg1112;YP_095145.1;127;hypothetical protein;-
+NC_002942.5;1217834;1218575;-1;19832678;-;lpg1113;YP_095146.1;246;hypothetical protein;-
+NC_002942.5;1218657;1221027;-1;19832679;-;lpg1114;YP_095147.1;789;sensory box protein;Signal transduction / other regulatory functions
+NC_002942.5;1221312;1222989;-1;19832680;kaiC2;lpg1115;YP_095148.1;558;circadian clock protein KaiC;Replication and Repair
+NC_002942.5;1223381;1225733;1;19832681;-;lpg1116;YP_095149.1;783;hypothetical protein;Protein fate / hydrolases / secretion
+NC_002942.5;1225771;1226245;-1;19832682;paiA;lpg1117;YP_095150.1;157;hypothetical protein;Protein fate / hydrolases / secretion, Chemotaxis / motility / cell division, Transcription factors / DNA binding proteins
+NC_002942.5;1226336;1227452;-1;19832683;-;lpg1118;YP_095151.1;371;serine-type D-Ala-D-Ala carboxypeptidase;Protein fate / hydrolases / secretion
+NC_002942.5;1227719;1228784;1;19832684;-;lpg1119;YP_095152.1;354;major acid phosphatase;-
+NC_002942.5;1229115;1230882;-1;19832685;-;lpg1120;YP_095153.1;588;hypothetical protein;-
+NC_002942.5;1231463;1232234;1;19832686;-;lpg1121;YP_095154.1;256;hypothetical protein;-
+NC_002942.5;1232861;1234190;1;19832687;-;lpg1122;YP_095155.1;442;membrane bound lytic murein transglycosylase D;Metabolism of Complex Carbohydrates, Nucleotide Metabolism
+NC_002942.5;1234315;1235077;-1;19832688;artJ;lpg1123;YP_095156.1;253;arginine ABC transporter substrate-binding protein;Transport and binding
+NC_002942.5;1235312;1235903;-1;19832689;-;lpg1124;YP_095157.1;196;hypothetical protein;-
+NC_002942.5;1236120;1236879;1;19832690;-;lpg1125;YP_095158.1;252;amino acid ABC transporter substrate-binding protein;Transport and binding
+NC_002942.5;1237161;1240623;1;19832691;-;lpg1126;YP_095159.1;1153;calcium-transporting ATPase;Transport and binding
+NC_002942.5;1240718;1242227;-1;19832692;-;lpg1127;YP_095160.1;502;acyl CoA synthetase, long chain fatty acid:CoA ligase;Lipid Metabolism
+NC_002942.5;1242309;1242774;1;19832693;-;lpg1128;YP_095161.1;154;cytidine/deoxycytidylate deaminase;Nucleotide Metabolism
+NC_002942.5;1243201;1244761;1;19832694;-;lpg1129;YP_095162.1;519;hypothetical protein;-
+NC_002942.5;1244889;1246341;-1;19832695;cyaA4;lpg1130;YP_095163.1;483;adenylate cyclase;Nucleotide Metabolism
+NC_002942.5;1246993;1248160;-1;19832696;cfa;lpg1131;YP_095164.1;388;cyclopropane-fatty-acyl-phospholipid synthase;Lipid Metabolism, Metabolism of Complex Lipids
+NC_002942.5;1248174;1248555;-1;19832697;-;lpg1132;YP_095165.1;126;hypothetical protein;-
+NC_002942.5;1248525;1248705;1;19832698;-;lpg1133;YP_095166.1;59;hypothetical protein;-
+NC_002942.5;1248771;1249824;-1;19832699;-;lpg1134;YP_095167.1;350;nitropropane dioxygenase/trans-enoyl-CoA reductase;-
+NC_002942.5;1249801;1250413;-1;19832700;-;lpg1135;YP_095168.1;203;TetR family regulatory protein;Transcription factors / DNA binding proteins
+NC_002942.5;1250582;1251485;1;19832701;-;lpg1136;YP_095169.1;300;hypothetical protein;-
+NC_002942.5;1252018;1252987;-1;19832702;-;lpg1137;YP_095170.1;322;hypothetical protein;-
+NC_002942.5;1253246;1254269;-1;19832703;-;lpg1138;YP_095171.1;340;spermidine/putrescine ABC transporter substrate-binding protein;Transport and binding
+NC_002942.5;1254265;1255033;-1;19832704;potC;lpg1139;YP_095172.1;255;spermidine/putrescine ABC transporter permease;Transport and binding
+NC_002942.5;1255029;1255854;-1;19832705;potB;lpg1140;YP_095173.1;274;spermidine/putrescine ABC transporter permease PotB;Transport and binding
+NC_002942.5;1255843;1256992;-1;19832706;potA;lpg1141;YP_095174.1;382;putrescine/spermidine ABC transporter ATPase;Transport and binding
+NC_002942.5;1257167;1257398;-1;19832707;-;lpg1142;YP_095175.1;76;hypothetical protein;-
+NC_002942.5;1257597;1258482;-1;19832708;-;lpg1143;YP_095176.1;294;short chain type dehydrogenase/reductase;Lipid Metabolism
+NC_002942.5;1258828;1259335;-1;19832709;-;lpg1144;YP_095177.1;168;hypothetical protein;-
+NC_002942.5;1259593;1261903;1;19832710;-;lpg1145;YP_095178.1;769;hypothetical protein;-
+NC_002942.5;1262032;1263514;1;19832711;-;lpg1146;YP_095179.1;493;thermostable carboxypeptidase 1;DNA/RNA degradation / restriction
+NC_002942.5;1263574;1264078;1;19832712;-;lpg1147;YP_095180.1;167;hypothetical protein;-
+NC_002942.5;1264367;1265879;1;19832713;lupA;lpg1148;YP_095181.1;503;ubiquitin-specific protease A;-
+NC_002942.5;1266056;1266839;1;19832714;-;lpg1149;YP_095182.1;260;hypothetical protein;-
+NC_002942.5;1266926;1268006;1;19832715;-;lpg1150;YP_095183.1;359;transcription regulator protein;Detoxification / adaptation, Transcription factors / DNA binding proteins
+NC_002942.5;1268082;1269606;-1;19832716;-;lpg1151;YP_095184.1;507;hypothetical protein;-
+NC_002942.5;1269764;1270721;-1;19832717;-;lpg1152;YP_095185.1;318;hypothetical protein;-
+NC_002942.5;1270620;1272108;-1;19832718;-;lpg1153;YP_095186.1;495;amine oxidase;Amino Acid Metabolism, Biosynthesis of Secondary Metabolites
+NC_002942.5;1272593;1273676;1;19832719;-;lpg1154;YP_095187.1;360;hypothetical protein;-
+NC_002942.5;1273915;1275595;1;19832720;-;lpg1155;YP_095188.1;559;pyruvate decarboxylase;Carbohydrate Metabolism
