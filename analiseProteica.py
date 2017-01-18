@@ -14,7 +14,7 @@ swiss_record = [record for record in SwissProt.parse(handle)]
 entries=[]
 accession = 'NC_002942.5'
 fich_rev = open('AnaliseProteinas.txt', 'w')
-fich_rev.write('Análise das Propriedades das Proteínas')
+fich_rev.write('Analise das Propriedades das Proteínas')
 for i in range(len(record.features)):
     if record.features[i].type == "CDS":
         if ('gene' in record.features[i].qualifiers):
@@ -42,8 +42,8 @@ for i in range(len(record.features)):
                             fich_rev.write(str("\nStatus: %s" %entry.data_class))
                             uniprotID = entry.entry_name.replace('_LEGPH','')
                             fich_rev.write(str("\nUniProt ID: %s" %uniprotID))
-                            fich_rev.write(str("\nNome da proteína: %s" %proteinName))
-                            fich_rev.write(str("\nFunção molecular: %s" %function))
+                            fich_rev.write(str("\nNome da proteina: %s" %proteinName))
+                            fich_rev.write(str("\nFuncao molecular: %s" %function))
                             localizacao = None
                             for cr in entry.cross_references:
                                 if cr[0] == "GO":
@@ -53,7 +53,7 @@ for i in range(len(record.features)):
                                         if cls[0] == 'C':
                                             localizacao = cls[1]
                             if localizacao is None:
-                                fich_rev.write(str("\nLocalização celular: -"))
+                                fich_rev.write(str("\nLocalizacao celular: -"))
                             else:
-                                fich_rev.write(str("\nLocalização celular: %s" %localizacao))
+                                fich_rev.write(str("\nLocalizacao celular: %s" %localizacao))
 fich_rev.close()
