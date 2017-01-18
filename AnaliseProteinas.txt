@@ -1,4 +1,4 @@
-Analise das Propriedades das Proteínas
+Analise das Propriedades das Proteinas
 
 Nome do gene: lpg0925(ponA)
 Zona do genoma: 998716-1001101
