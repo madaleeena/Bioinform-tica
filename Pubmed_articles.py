@@ -2,7 +2,7 @@
 """
 Created on Fri Dec 16 14:14:22 2016
 
-@author: João Fernandes
+@author: grupo5
 """
 
 #Ref: Tutorial Biopython (9.14.1)
