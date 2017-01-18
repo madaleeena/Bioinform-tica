@@ -1,0 +1,40 @@
+Nome:AROK_LEGPH
+Accession:Q5ZX01
+Nome do gene:Name=aroK {ECO:0000255|HAMAP-Rule:MF_00109}; OrderedLocusNames=lpg0932;
+
+Nome:AROB_LEGPH
+Accession:Q5ZX00
+Nome do gene:Name=aroB {ECO:0000255|HAMAP-Rule:MF_00110}; OrderedLocusNames=lpg0933;
+
+Nome:SYI_LEGPH
+Accession:Q5ZWZ6
+Nome do gene:Name=ileS {ECO:0000255|HAMAP-Rule:MF_02002}; OrderedLocusNames=lpg0937;
+
+Nome:RECO_LEGPH
+Accession:Q5ZWZ0
+Nome do gene:Name=recO {ECO:0000255|HAMAP-Rule:MF_00201}; OrderedLocusNames=lpg0943;
+
+Nome:PDXJ_LEGPH
+Accession:Q3V870
+Nome do gene:Name=pdxJ {ECO:0000255|HAMAP-Rule:MF_00279}; OrderedLocusNames=lpg0946;
+
+Nome:DNLJ_LEGPH
+Accession:Q5ZWX6
+Nome do gene:Name=ligA {ECO:0000255|HAMAP-Rule:MF_01588}; OrderedLocusNames=lpg0958;
+
+Nome:TYPH_LEGPH
+Accession:Q5ZWR3
+Nome do gene:OrderedLocusNames=lpg1022;
+
+Nome:ATPA1_LEGPH
+Accession:Q5ZWN7
+Nome do gene:Name=atpA1 {ECO:0000255|HAMAP-Rule:MF_01346}; OrderedLocusNames=lpg1048;
+
+Nome:ATP6_LEGPH
+Accession:Q5ZWN4
+Nome do gene:Name=atpB {ECO:0000255|HAMAP-Rule:MF_01393}; OrderedLocusNames=lpg1051;
+
+Nome:POTA_LEGPH
+Accession:Q5ZWE4
+Nome do gene:Name=potA {ECO:0000255|HAMAP-Rule:MF_01726}; OrderedLocusNames=lpg1141;
+
