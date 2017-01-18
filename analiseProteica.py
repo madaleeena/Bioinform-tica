@@ -29,7 +29,6 @@ for i in range(len(record.features)):
             function = record.features[i].qualifiers['function'][0]
         else:
             function = '-'
-        geneID = record.features[i].qualifiers['db_xref'][0].replace('GeneID:','')
         for entry in swiss_record:
             for ref in entry.cross_references:
                 if ref[0] == 'RefSeq':
